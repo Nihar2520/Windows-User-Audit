@@ -65,13 +65,13 @@ This saves a JSON snapshot under your Documents folder.
 4. Compare snapshots
 
 Take two snapshots (before/after a change) and compare:
-
+```powershell
 .\diff_snapshots.ps1 -OldFile "snapshots\local\local_snapshot_20250920T120000Z.json" `
                      -NewFile "snapshots\local\local_snapshot_20250920T121000Z.json"
-
+```
 
 Example output:
-
+```powershell
 === Users ===
 Added users:
  - audit_test_user
@@ -86,7 +86,7 @@ Removed from Administrators: none
 # Open PowerShell as Administrator
 .\test_harness_local.ps1
 
-
+```
 This will automatically:
 
 Save a “before” snapshot
