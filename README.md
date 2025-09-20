@@ -12,6 +12,10 @@ The tool can:
 ## 📂 Scripts
 
 - **LocalUserSnapshot.ps1**  
-  Takes a snapshot of current local users and groups.  
-  Output is saved as JSON under:  
-<img width="1015" height="695" alt="image" src="https://github.com/user-attachments/assets/45cd4eb2-f6c3-424d-a50b-77890e83dd1d" />
+  Takes a snapshot of current local users and groups.
+  <img width="1015" height="695" alt="image" src="https://github.com/user-attachments/assets/45cd4eb2-f6c3-424d-a50b-77890e83dd1d" />
+  
+  Output is saved as JSON under:
+  <img width="847" height="353" alt="image" src="https://github.com/user-attachments/assets/3f1d0e12-63ff-46e5-9475-3151dacf445f" />
+
+
