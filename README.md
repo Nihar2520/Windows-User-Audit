@@ -46,7 +46,7 @@ End-to-end test. Creates a temporary user, adds it to Administrators, captures b
 ## 🚀 Usage
 
 ### 1. Clone or download
-```powershell
+
 
 2. Unblock the scripts (only once per file)
 
